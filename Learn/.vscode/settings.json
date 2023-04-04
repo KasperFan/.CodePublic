@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "stdio.h": "c",
+        "algorithm": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "*.tcc": "cpp",
+        "math.h": "c",
+        "complex": "c",
+        "valarray": "c",
+        "cmath": "c",
+        "time.h": "c",
+        "iostream": "cpp",
+        "ctype.h": "c",
+        "*.ds_store": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

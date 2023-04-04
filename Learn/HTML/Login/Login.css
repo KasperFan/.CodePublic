@@ -1,0 +1,16 @@
+div {
+    position: relative;
+    left: 40%;
+    top: 20%;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 5ch;
+    width: 6cm;
+    height: 7cm;
+    font-size: smaller;
+}
+#button {
+    background-color: rgb(111, 172, 252);
+    width: 5cm;
+    height: 0.7cm;
+}

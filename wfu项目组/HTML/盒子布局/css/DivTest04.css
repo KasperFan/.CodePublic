@@ -1,0 +1,41 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(251, 251, 225);
+    padding: 0px;
+}
+#back{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    margin: 0px;
+}
+#top{
+    background-color: orange;
+    height: 10%;
+}
+#center{
+    background-color: greenyellow;
+    height: 80%;
+}
+#foot{
+    background-color: deepskyblue;
+    height: 10%;
+}
+#center #left{
+    height: 100%;
+    width: 15%;
+    background-color: white;
+    float: left;
+}
+#center #right{
+    height: 100%;
+    width: 85%;
+    float: right;
+    background-color: lightblue;
+    padding:0;
+}
+#showCat{
+    height: 100%;
+    width: 100%;
+}

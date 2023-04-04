@@ -1,0 +1,64 @@
+登录的form表单
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表单演示</title>
+</head>
+
+<body>
+    <table id="123" align="center" width="500px" border="0" cellpadding="2" cellspacing="0">
+        <caption align="center">
+            <h2>学生注册信息</h2>
+        </caption>
+
+
+        <form action="http://weiflea.top/user/register" method="post">
+            <tr>
+                <th>姓名：</th>
+                <td>
+                    <input type="text" name="userName" size="20">
+                </td>
+            </tr>
+            <tr>
+                <th>性别：</th>
+                <td>
+                    <input type="radio" name="sex" value="1" checked="checked">男
+                    <input type="radio" name="sex" value="1">女
+                </td>
+            </tr>
+            <tr>
+                <th>年级：</th>
+                <td>
+                    <select name="edu">
+                        <option>---请选择---</option>
+                        <option value="2019">2019</option>
+                        <option value="2020">2020</option>
+                        <option value="2021">2021</option>
+                        <option value="2022">2022</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>选修课程：</th>
+                <td>
+                    <input type="checkbox" name="course" id="4" value="Linux">Linux
+                    <input type="checkbox" name="course" id="5" value="MySQL">MySQL
+                    <input type="checkbox" name="course" id="6" value="JAVA">JAVA
+                    <input type="checkbox" name="course" id="7" value="Python">Python
+                    <input type="checkbox" name="course" id="8" value="C#">C#
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="提交">
+                </td>
+            </tr>
+        </form>
+    </table>
+</body>
+
+</html>
