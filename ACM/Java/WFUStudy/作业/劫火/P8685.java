@@ -1,12 +1,12 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2023-03-28 11:46:04
- * @LastEditTime: 2023-03-29 20:19:32
- * @FilePath: /ACM/Java/WFUStudy/作业/劫火/P8685.java
+ * @LastEditTime: 2023-04-05 09:14:31
+ * @FilePath: /Java/WFUStudy/作业/劫火/P8685.java
  * @Description: This file is created for learning Code.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved.
  */
-package WFUStudy.作业.劫火;
+package 作业.劫火;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

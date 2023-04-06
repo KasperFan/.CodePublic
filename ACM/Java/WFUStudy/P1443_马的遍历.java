@@ -1,4 +1,11 @@
-
+/*
+ * @Author: KasperFan && fanwlx@foxmail.com
+ * @Date: 2023-04-04 16:46:33
+ * @LastEditTime: 2023-04-05 09:15:04
+ * @FilePath: /Java/WFUStudy/P1443_马的遍历.java
+ * @describes: This file is created for learning Code.
+ * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
+ */
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -10,7 +17,7 @@ public class P1443_马的遍历 {
     static int[] dx = { -1, -2, 1, 2, -1, -2, 2, 1 }, dy = { -2, -1, 2, 1, 2, 1, -1, -2 };
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);               
+        Scanner sc = new Scanner(System.in);
         for (int i = 0; i <= n; i++)
             for (int j = 0; j <= m; j++)
                 ans[i][j] = -1;
@@ -57,5 +64,6 @@ public class P1443_马的遍历 {
         }
     }
 }
-// f[i][j] = max(f[i-1][j], f[i-1][j - v[i]]+w[i], f[i-1][j-2*v[i]]+2*w[i], f[i-1][j-3*v[i]]+3*w[i] ,......)
+// f[i][j] = max(f[i-1][j], f[i-1][j - v[i]]+w[i], f[i-1][j-2*v[i]]+2*w[i],
+// f[i-1][j-3*v[i]]+3*w[i] ,......)
 // f[i][j-v[i]]=max(f[i-1][j-v[i]],f[i-1][j-2*v[i]]+w[i],f[i-1][j-3*v[i]]+2*w[i],f[i-1][j-3*v[i]]+3*w[i],......)

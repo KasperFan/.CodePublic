@@ -1,11 +1,13 @@
 '''
 Author: KasperFan && fanwlx@foxmail.com
 Date: 2023-03-15 16:17:19
-LastEditTime: 2023-03-23 21:05:19
+LastEditTime: 2023-04-05 01:52:33
 FilePath: /ACM/Python/P4017最大食物链计数.py
 Description: This file is created for learning Code.
 Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
 '''
+import sys
+def input(): return sys.stdin.readline()
 
 n, m = map(int, input().split())
 mod = 80112002
@@ -15,13 +17,13 @@ outdegree = [0] * (n + 1)
 for _ in range(m):
     a, b = map(int, input().split())
     edges[b].append(a)
-    indegree[a] += 1
-    outdegree[b] += 1
+    outdegree[a] += 1
+    indegree[b] += 1
 
 dp = [0] * (n + 1)
 queue = []
 for i in range(1, n + 1):
-    if indegree[i] == 0:
+    if outdegree[i] == 0:
         queue.append(i)
         dp[i] = 1
 
@@ -30,11 +32,11 @@ while queue:
     for pre in edges[node]:
         dp[pre] += dp[node]
         dp[pre] %= mod
-        indegree[pre] -= 1
-        if indegree[pre] == 0:
+        outdegree[pre] -= 1
+        if outdegree[pre] == 0:
             queue.append(pre)
 
-ans = sum([dp[i] for i in range(1, n + 1) if outdegree[i] == 0]) % mod
+ans = sum([dp[i] for i in range(1, n + 1) if indegree[i] == 0]) % mod
 print(ans)
 
 

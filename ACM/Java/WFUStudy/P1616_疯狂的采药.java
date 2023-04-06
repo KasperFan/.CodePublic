@@ -1,4 +1,12 @@
 /*
+ * @Author: KasperFan && fanwlx@foxmail.com
+ * @Date: 2023-04-04 16:46:33
+ * @LastEditTime: 2023-04-05 09:15:08
+ * @FilePath: /Java/WFUStudy/P1616_疯狂的采药.java
+ * @describes: This file is created for learning Code.
+ * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
+ */
+/*
 Name    :   P1616_疯狂的采药.java
 Time    :   2023/02/18 17:44:52
 Author  :   Kasper Fan
@@ -6,8 +14,6 @@ Group   :   Weifang University
 Contact :   fanwlx@foxmail.com
 Desc    :   This file is created for learning Java coding
 */
-
-
 
 import java.util.Scanner;
 

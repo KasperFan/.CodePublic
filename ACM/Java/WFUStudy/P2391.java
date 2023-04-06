@@ -1,4 +1,11 @@
-
+/*
+ * @Author: KasperFan && fanwlx@foxmail.com
+ * @Date: 2023-04-04 16:46:33
+ * @LastEditTime: 2023-04-05 09:15:20
+ * @FilePath: /Java/WFUStudy/P2391.java
+ * @describes: This file is created for learning Code.
+ * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
+ */
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -20,7 +27,7 @@ public class P2391 {
             Arrays.sort(length);
             for (int j = 0; j < s[i]; j++) {
                 for (int j2 = 0; j2 < length.length; j2++) {
-                    if (t + length[j2] > sum/2) {
+                    if (t + length[j2] > sum / 2) {
                         break;
                     }
                     t += length[j2];

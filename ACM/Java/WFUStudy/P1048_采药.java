@@ -1,13 +1,11 @@
 /*
-Name    :   P1048_采药.java
-Time    :   2023/02/14 12:34:31
-Author  :   Kasper Fan
-Group   :   Weifang University
-Contact :   fanwlx@foxmail.com
-Desc    :   This file is created for learning Java coding
-*/
-
-
+ * @Author: KasperFan && fanwlx@foxmail.com
+ * @Date: 2023-04-04 16:46:33
+ * @LastEditTime: 2023-04-05 09:14:50
+ * @FilePath: /Java/WFUStudy/P1048_采药.java
+ * @describes: This file is created for learning Code.
+ * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
+ */
 
 import java.util.Scanner;
 

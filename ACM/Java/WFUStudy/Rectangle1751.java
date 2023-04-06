@@ -1,4 +1,4 @@
-package WFUStudy;
+
 
 import java.util.Scanner;
 
