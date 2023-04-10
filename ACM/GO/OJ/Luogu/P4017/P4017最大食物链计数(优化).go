@@ -1,8 +1,8 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2023-03-15 22:44:26
- * @LastEditTime: 2023-04-05 02:12:02
- * @FilePath: /ACM/GO/P4017最大食物链计数.go
+ * @LastEditTime: 2023-04-06 15:07:40
+ * @FilePath: /ACM/GO/OJ/Luogu/P4017/P4017最大食物链计数(优化).go
  * @Description: This file is created for learning Code.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved.
  */
@@ -10,19 +10,29 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"os"
 )
 
 func main() {
 	var n, m int
-	fmt.Scanf("%d %d", &n, &m)
+	scanner := bufio.NewScanner(os.Stdin)
+	scanner.Split(bufio.ScanWords)
+	scanner.Scan()
+	fmt.Sscan(scanner.Text(), &n)
+	scanner.Scan()
+	fmt.Sscan(scanner.Text(), &m)
 	mod := 80112002
 	edges := make([][]int, n+1)   // 记录每种生物的食谱
 	indegree := make([]int, n+1)  // 记录每种生物的入度(吃多少种生物)
 	outdegree := make([]int, n+1) // 记录每种生物的出度(被多少种生物吃)
 	for i := 0; i < m; i++ {
 		var a, b int
-		fmt.Scanf("%d %d", &a, &b)
+		scanner.Scan()
+		fmt.Sscan(scanner.Text(), &a)
+		scanner.Scan()
+		fmt.Sscan(scanner.Text(), &b)
 		edges[b] = append(edges[b], a) // 将A添加到B的菜谱里
 		indegree[b]++
 		outdegree[a]++
@@ -54,5 +64,5 @@ func main() {
 		}
 	}
 	ans %= mod
-	fmt.Printf("%d", ans)
+	fmt.Println(ans)
 }

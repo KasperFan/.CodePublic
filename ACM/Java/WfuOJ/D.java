@@ -36,10 +36,10 @@ public class D {
         if (N - right > left + 1) mix = right;
         for (int i = 0; i < N; i++) {
             if (i == N - 1) {
-                if (A[i] != com[mix]) sb.append(Math.max(0, com[mix] - A[i] + 1));
+                if (A[i] != com[mix]) sb.append(Math.max(0, com[mix] - A[i]));
                 else sb.append(0);
             } else {
-                if (A[i] != com[mix]) sb.append(Math.max(0, com[mix] - A[i] + 1)).append(" ");
+                if (A[i] != com[mix]) sb.append(Math.max(0, com[mix] - A[i])).append(" ");
                 else sb.append(0).append(" ");
             }
         }

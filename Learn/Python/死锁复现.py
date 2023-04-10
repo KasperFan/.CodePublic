@@ -1,7 +1,7 @@
 '''
 Author: KasperFan && fanwlx@foxmail.com
 Date: 2023-04-05 00:21:53
-LastEditTime: 2023-04-05 00:23:00
+LastEditTime: 2023-04-06 10:41:02
 FilePath: /Learn/Python/死锁复现.py
 describes: This file is created for learning Code.
 Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
@@ -13,6 +13,8 @@ lock1 = threading.Lock()
 lock2 = threading.Lock()
 
 # 定义第一个线程函数
+
+
 def thread1():
     # 获取锁1
     lock1.acquire()
@@ -32,6 +34,8 @@ def thread1():
     lock1.release()
 
 # 定义第二个线程函数
+
+
 def thread2():
     # 获取锁2
     lock2.acquire()

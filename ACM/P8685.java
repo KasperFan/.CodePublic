@@ -53,14 +53,21 @@ public class P8685 {
     }
 
     /**
-     * Read
-     */
-    static class Read {
-        StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
-
+    * Read
+    */
+    static class Read { 
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StreamTokenizer st = new StreamTokenizer(br);
+        public String nextLine() throws Exception {
+            return br.readLine();
+        }
         public int nextInt() throws Exception {
             st.nextToken();
             return (int) st.nval;
+        }
+        public double nextDouble() throws Exception {
+            st.nextToken();
+            return st.nval;
         }
     }
 }

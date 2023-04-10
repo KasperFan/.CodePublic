@@ -1,9 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#define bool short;
-#define true 1;
-#define false 0;
-typedef int ElementType;
+#include "bool.h"
 
 typedef int Position;
 typedef struct QNode *PtrToQNode;

@@ -13,7 +13,11 @@
         "time.h": "c",
         "iostream": "cpp",
         "ctype.h": "c",
-        "*.ds_store": "c"
+        "*.ds_store": "c",
+        "stack.h": "c",
+        "cstdio": "c",
+        "pthread.h": "c",
+        "cdefs.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

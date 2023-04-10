@@ -1,18 +1,15 @@
-#define bool int
-#define true 1
-#define false 0
-#define ERROR -1
+#include "bool.h"
 
 typedef struct SNode *PtrToSNode;
 struct SNode
-{   /* 构建一个堆栈的头节点，返回该节点指针 */
+{   
     ElementType Data;
     PtrToSNode Next;
 };
 typedef PtrToSNode Stack;
 
 Stack CreateStack()
-{
+{ /* 构建一个堆栈的头节点，返回该节点指针 */
     Stack S;
     S = malloc(sizeof(struct SNode));
     S->Next = NULL;

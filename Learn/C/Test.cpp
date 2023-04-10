@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     unsigned long long a, b, n, temp, ans=0;
-    scanf("%llu%llu%llu", &a, &b, &n);
+    cin >> a >> b >> n;
     cout << a << b << n << endl;
     if (n > 5 * a + 2 * b)
     {
