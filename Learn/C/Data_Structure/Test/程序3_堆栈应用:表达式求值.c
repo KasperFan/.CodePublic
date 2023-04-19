@@ -5,7 +5,7 @@
 #define MAXOP 100           /* 操作数序列可能的最大长度 */
 #define INFINITY 1e9        /* 代表正无穷 */
 typedef double ElementType; /* 将堆栈的元素类型具体化 */
-#include "../第3章_线性结构/3.3堆栈/Stack.h"
+#include "../course/第3章_线性结构/3.3堆栈/Stack.h"
 /* 类型依次对应运算数、运算符、字符串结尾 */
 typedef enum { num, opr, end} Type;
 

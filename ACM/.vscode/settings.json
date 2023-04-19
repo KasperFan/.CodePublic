@@ -10,5 +10,9 @@
         "complex": "c",
         "valarray": "c",
         "cmath": "c"
-    }
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }

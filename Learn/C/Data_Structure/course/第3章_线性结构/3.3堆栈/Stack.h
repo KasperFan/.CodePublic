@@ -1,4 +1,4 @@
-#include "bool.h"
+#include <bool.h>
 
 typedef struct SNode *PtrToSNode;
 struct SNode
