@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "src.UpperCase",
+            "projectName": "Learn_8b64552b"
+        },
+        {
+            "type": "java",
+            "name": "Test_02",
+            "request": "launch",
+            "mainClass": "Test.Test_02",
+            "projectName": "Learn_8b64552b"
+        },
+        {
+            "type": "java",
             "name": "MapExample",
             "request": "launch",
             "mainClass": "src.MapExample",
