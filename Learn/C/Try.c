@@ -98,9 +98,8 @@ Desc    :   This file is created for solve OJ problem
 #include <stdio.h>
 int main()
 {
-    int a = 2;
-    int b = 10;
-    int c = 0;
+    int a, b, c;
+    scanf("%d %d", &a, &b);
     c = a ^ b;
     printf("%d\n", c);
     return 0;

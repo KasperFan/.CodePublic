@@ -1,29 +1,9 @@
 {
-    "files.associations": {
-        "*.c": "c",
-        "stdio.h": "c",
-        "algorithm": "cpp",
-        "forward_list": "cpp",
-        "list": "cpp",
-        "*.tcc": "cpp",
-        "math.h": "c",
-        "complex": "c",
-        "valarray": "c",
-        "cmath": "c",
-        "time.h": "c",
-        "iostream": "cpp",
-        "ctype.h": "c",
-        "*.ds_store": "c",
-        "stack.h": "c",
-        "cstdio": "c",
-        "pthread.h": "c",
-        "cdefs.h": "c",
-        "bool.h": "c"
-    },
     "C_Cpp.errorSquiggles": "disabled",
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
-    "python.analysis.typeCheckingMode": "off"
+    "python.analysis.typeCheckingMode": "off",
+    "cmake.configureOnOpen": false
 }
