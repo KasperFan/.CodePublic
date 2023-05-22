@@ -1,24 +1,19 @@
-#include "bool.h"
-
-// 用C语言描述链式队列结构如下：
+/*C语言代码：队列的定义与操作-链式存储*/
 typedef struct Node *PtrToNode;
-// 队列中的节点
 struct Node
-{
+{ /* 队列中的结点 */
     ElementType Data;
     PtrToNode Next;
 };
 typedef PtrToNode Position;
 
-typedef struct QNode *PtrToQNode;
 struct QNode
 {
-    Position Front, Rear; /* 队列的头尾指针 */
+    Position Front, Rear; /* 队列的头、尾指针 */
     int MaxSize;          /* 队列最大容量 */
 };
-typedef PtrToQNode Queue;
+typedef struct QNode *Queue;
 
-// 代码3.18 链式存储队列的出队操作
 bool IsEmpty(Queue Q)
 {
     return (Q->Front == NULL);
@@ -37,13 +32,13 @@ ElementType DeleteQ(Queue Q)
     else
     {
         FrontCell = Q->Front;
-        if (Q->Front == Q->Rear) /* 若队列只有一个元素 */
-            Q->Front = Q->Rear = NULL;
+        if (Q->Front == Q->Rear)       /* 若队列只有一个元素 */
+            Q->Front = Q->Rear = NULL; /* 删除后队列置为空 */
         else
             Q->Front = Q->Front->Next;
         FrontElem = FrontCell->Data;
 
-        free(FrontCell); /* 释放被删除节点空间 */
+        free(FrontCell); /* 释放被删除结点空间  */
         return FrontElem;
     }
 }

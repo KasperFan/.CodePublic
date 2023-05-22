@@ -10,14 +10,14 @@ int main()
     return 0;
 }
 
-void PrintN(int N)
-{ /* 打印从1到N的全部正整数 */
-    for (int i = 1; i <= N; i++)
-    {
-        printf("%d\n", i);
-    }
-    return;
-}
+// void PrintN(int N)
+// { /* 打印从1到N的全部正整数 */
+//     for (int i = 1; i <= N; i++)
+//     {
+//         printf("%d\n", i);
+//     }
+//     return;
+// }
 
 void PrintN(int N)
 { /* 打印从1到N的全部正整数 */

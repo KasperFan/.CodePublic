@@ -8,9 +8,6 @@ int main(int argc, char const *argv[])
     a = i++;
     b = ++i;
     // printf("%d\n", (i++) + (++i));
-    i = 5;
-    a = ++i;
-    b = i++;
     // printf("%d\n", (++i) + (i++));
     return 0;
 }

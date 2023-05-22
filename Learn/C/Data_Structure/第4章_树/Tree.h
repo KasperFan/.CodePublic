@@ -1,16 +1,16 @@
-#include "Stack.h"
-#include "Queue.h"
+#include "stack_p.h"
+#include "queue_p.h"
 
 typedef int ElementType;
 
 // 代码4.3 二叉树的链表结构
 typedef struct TNode *Position;
-typedef Position BinTree;
+typedef Position BinTree; /* 二叉树类型 */
 struct TNode
-{
-    ElementType Data;
-    BinTree Left;
-    BinTree Right;
+{                     /* 树结点定义 */
+    ElementType Data; /* 结点数据 */
+    BinTree Left;     /* 指向左子树 */
+    BinTree Right;    /* 指向右子树 */
 };
 
 // 代码4.4 二叉树中序遍历
