@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <math.h>
+// #include <math.h>
 
 clock_t start, stop;
 /* 测试数据 */

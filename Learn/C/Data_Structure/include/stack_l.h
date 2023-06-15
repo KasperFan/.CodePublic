@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+#define ERROR -1
+
 // C语言代码：堆栈的定义与操作-顺序存储
 typedef int Position;
 struct SNode

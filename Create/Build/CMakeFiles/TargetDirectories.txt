@@ -1,0 +1,3 @@
+/Users/kasperfan/Desktop/.Code/Create/build/CMakeFiles/main.dir
+/Users/kasperfan/Desktop/.Code/Create/build/CMakeFiles/edit_cache.dir
+/Users/kasperfan/Desktop/.Code/Create/build/CMakeFiles/rebuild_cache.dir

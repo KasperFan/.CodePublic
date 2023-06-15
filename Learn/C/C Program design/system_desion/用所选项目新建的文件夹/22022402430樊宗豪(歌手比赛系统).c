@@ -60,9 +60,9 @@ int main(int argc, char const *argv[])
 void menu(struct singer *people) // 接入节点参数
 {
     printf("         ******************************************\n");
-    printf("         *                                        *\n");
+    printf("         *\t*\n");
     printf("         *         欢迎使用歌手比赛系统           *\n");
-    printf("         *                                        *\n");
+    printf("         * \t*\n");
     printf("         *           1：输入选手数据              *\n");
     printf("         *           2：评委打分                  *\n");
     printf("         *           3：选手成绩排序              *\n");
