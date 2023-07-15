@@ -1,7 +1,7 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2022-12-14 20:31:50
- * @LastEditTime: 2023-03-17 01:12:40
+ * @LastEditTime: 2023-07-12 11:59:31
  * @FilePath: /ACM/Java/P1923.java
  * @Description: This file is created for learning Code.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
@@ -35,6 +35,10 @@ public class P1923 {
             k++;
         }
         System.out.println(array[k]);
+    }
+
+    public static int sort() {
+        
     }
 }
 

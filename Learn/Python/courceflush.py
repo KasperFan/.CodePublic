@@ -24,8 +24,8 @@ class Course:
 def login():
     # inp_1 = input('请输入电话号码:')
     # inp_2 = input('请输入密码:')
-    inp_1 = str(12345678901)
-    inp_2 = '***********' + str(1)
+    inp_1 = str(13411878396)
+    inp_2 = 'FZh5201314lwj'
     # inp_3 = input("请输入验证码：")
     username = driver.find_element(By.ID, 'phone')
     password = driver.find_element(By.ID, 'pwd')

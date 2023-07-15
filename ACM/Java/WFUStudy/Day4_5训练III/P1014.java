@@ -21,5 +21,6 @@ public class P1014 {
             System.out.println(N + "/" + (k + 1 - N));
         else
             System.out.println((k + 1 - N) + "/" + N);
+        sc.close();
     }
 }

@@ -1,7 +1,7 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2023-06-12 13:16:23
- * @LastEditTime: 2023-06-14 15:04:34
+ * @LastEditTime: 2023-07-09 00:12:05
  * @FilePath: /Data_Structure/课程设计/学生成绩查询系统.c
  * @describes: This file is created for learning Code.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved.
@@ -15,12 +15,15 @@
 
 #ifdef _WIN32     // 如果是Windows系统
 char *op = "cls"; // 将system函数赋值给清屏函数指针变量
+#include <conio.h>
 #include <Windows.h>
 LARGE_INTEGER freq, start_time, end_time; // freq为计时器的频率
 #endif
 #ifdef __APPLE__            // 如果是macOS系统
 char *op = "clear";         // 将system函数赋值给清屏函数指针变量
-#include <mach/mach_time.h> //macOS内核时间头文件
+#include <mach/mach_time.h> // macOS内核时间头文件
+#include <locale.h>
+#include <ncurses.h>
 uint64_t start, stop;
 mach_timebase_info_data_t info;
 #endif
@@ -77,18 +80,25 @@ void show_menu_save();
 void save_to_txt(char *filename);
 void save_to_csv(char *filename);
 void write_file(FILE *fp, char *option);
+int input_password(char password[]);
 
 int main(int argc, char const *argv[])
 {
 // 获取时钟频率
 #ifdef __APPLE__
+    setlocale(LC_ALL, "");
     mach_timebase_info(&info);
 #endif
 #ifdef _WIN32
     QueryPerformanceFrequency(&freq);
 #endif
 
-    do { system(op); menu(); printf("\n"); } while (choice != 0);
+    do
+    {
+        system(op);
+        menu();
+        printf("\n");
+    } while (choice != 0);
     return 0;
 }
 
@@ -117,17 +127,16 @@ void menu()
         case 1:
             system(op);
             search_stu_info();
-            getchar();
             system(op);
             break;
 
         case 2:
             system(op);
             sort_by_id();
-            printf("         按学号排序完成\n");
             for (int i = 0; i < size; i++)
-                printf("         学生 %d: %ld %s %d\n", i+1, students[i].id, students[i].name, students[i].score);
-            getchar();
+                printf("         学生 %d: %ld %s %d\n", i + 1, students[i].id, students[i].name, students[i].score);
+            printf("         学生信息按学号排序完成，按任意键继续");
+            fflush(stdin);
             getchar();
             system(op);
             break;
@@ -135,19 +144,26 @@ void menu()
         case 3:
             system(op);
             export_file();
+            fflush(stdin);
             getchar();
             system(op);
             break;
 
         case 0:
             printf("         您是否要退出系统?(Y/N):");
+            fflush(stdin);
             getchar();
             char check;
             scanf("%c", &check);
-            if (check == 'y' || check == 'Y') { free_students(); exit(0); }
+            if (check == 'y' || check == 'Y')
+            {
+                free_students();
+                exit(0);
+            }
         }
     }
-    else readStuInfo();
+    else
+        readStuInfo();
 }
 
 // 定义一个函数，用于向动态数组中添加一个学生信息
@@ -187,17 +203,27 @@ void readStuInfo()
         {
             if (read_from_database())
                 choice = show_menu();
-            else { flag = 1; break;}
+            else
+            {
+                flag = 1;
+                break;
+            }
         }
         else if (choice == 2)
         {
             // 如果用户选择文件，获取文件名，并调用读取文件的函数，显示读取到的学生信息的数量
             char filename[20];
-            printf("         请输入文件及后缀名:"); scanf("%s", filename);
+            printf("         请输入文件及后缀名:");
+            scanf("%s", filename);
             if (read_from_file(filename))
                 choice = show_menu();
-            else { flag = 1; break;}
-            getchar(); getchar();
+            else
+            {
+                flag = 1;
+                break;
+            }
+            fflush(stdin);
+            getchar();
         }
         else if (choice == 3)
         {
@@ -206,11 +232,15 @@ void readStuInfo()
             read_from_stdin();
             printf("         从键盘输入中读取了 %d 个学生信息\n.\n", count);
         }
-        else if(choice == 0)
+        else if (choice == 0)
         {
-            printf("         您是否要退出系统?(Y/N):"); getchar();
-            char check; scanf("%c", &check);
-            if (check == 'y' || check == 'Y') return;
+            printf("         您是否要退出系统?(Y/N):");
+            fflush(stdin);
+            getchar();
+            char check;
+            scanf("%c", &check);
+            if (check == 'y' || check == 'Y')
+                return;
         }
         else
             // 如果用户选择其他选项，提示错误信息，并返回主菜单
@@ -246,28 +276,41 @@ int show_menu()
 int read_from_database()
 {
     // 如果用户选择数据库，获取数据库和表的信息，并连接数据库，如果失败，则提示错误信息，并返回主菜单
-    MYSQL *db;                          // 数据库连接句柄
-    MYSQL_RES *result;                  // 执行数据库语言结果
-    MYSQL_ROW row;                      // 存放一个数据记录
-    char server[] = "localhost";        // 本地连接
-    char user[20];                      // 用户名
-    char password[20];                  // 密码
-    char db_name[20];                   // 数据库名
-    char table_name[20];                // 数据表名
-    printf("         请输入数据库用户名:"); scanf("%s", user);
-    printf("         请输入数据库密码:"); scanf("%s", password);
-    printf("         请输入数据库名称:"); scanf("%s", db_name);
-    printf("         请输入数据表名:"); scanf("%s", table_name);
+    MYSQL *db;                   // 数据库连接句柄
+    MYSQL_RES *result;           // 执行数据库语言结果
+    MYSQL_ROW row;               // 存放一个数据记录
+    char server[] = "localhost"; // 本地连接
+    char user[20];               // 用户名
+    char password[20];           // 密码
+    char db_name[20];            // 数据库名
+    char table_name[20];         // 数据表名
+    printf("         请输入数据库用户名:");
+    scanf("%s", user);
+#ifdef _WIN32
+    printf("         请输入数据库密码:");
+    input_password(password);
+#endif
+#ifdef __APPLE__
+    input_password(password);
+#endif
+    printf("         请输入数据库名称:");
+    scanf("%s", db_name);
+    printf("         请输入数据表名:");
+    scanf("%s", table_name);
     db = mysql_init(NULL);
     if (db == NULL)
     {
         printf("         初始化数据库: %s 失败\n\n", mysql_error(db));
+        fflush(stdin);
+        getchar();
         return 1;
     }
     if (mysql_real_connect(db, server, user, password, db_name, 3306, NULL, 0) == NULL)
     {
         printf("         无法连接到数据库 %s: %s\n\n", db_name, mysql_error(db));
         mysql_close(db);
+        fflush(stdin);
+        getchar();
         return 2;
     }
     // 构建查询语句，并执行查询，如果失败，则提示错误信息，并返回主菜单
@@ -277,6 +320,8 @@ int read_from_database()
     {
         printf("         *无法从表 %s 中查询: %s\n\n", table_name, mysql_error(db));
         mysql_close(db);
+        fflush(stdin);
+        getchar();
         return 3;
     }
     // 获取查询结果，并遍历每一行，创建学生信息结构体，并打印
@@ -285,6 +330,8 @@ int read_from_database()
     {
         printf("         *无法存储结果: %s\n\n", mysql_error(db));
         mysql_close(db);
+        fflush(stdin);
+        getchar();
         return 4;
     }
 
@@ -306,7 +353,8 @@ int read_from_database()
     mysql_close(db);
     printf("         Read %d student(s) from database %s and table %s.\n", count, db_name, table_name);
     printf("         按下任意键继续");
-    getchar(); getchar();
+    fflush(stdin);
+    getchar();
     return 0;
 }
 
@@ -319,6 +367,8 @@ int read_from_file(char *filename)
     {
         printf("\n");
         printf("         文件格式有误，请重新输入!\n\n");
+        fflush(stdin);
+        getchar();
         return 1;
     }
 
@@ -328,6 +378,8 @@ int read_from_file(char *filename)
     {
         printf("\n");
         printf("         打开文件 %s 失败!\n\n", filename);
+        fflush(stdin);
+        getchar();
         return 2;
     }
     // 创建一个学生信息结构体，用于存储每行的数据
@@ -357,13 +409,13 @@ int read_from_stdin()
     // 创建一个学生信息结构体，用于存储每行的数据
     Student student;
     // 读取标准键盘输入中的每一行，直到输入为空或者出错
-    while (scanf("%s %s %d", student.id, student.name, &student.score) == 3)
+    while (scanf("%ld %s %d", student.id, student.name, &student.score) == 3)
     {
         add_student(student);
         // 增加计数器
         count++;
         // 打印学生信息
-        printf("         学生 %d: %ld %s %d\n", count, student.id, student.name, student.score);
+        printf("         学生 %d: %ld %s %d\n", count, &student.id, student.name, student.score);
     }
 }
 
@@ -440,6 +492,7 @@ void search_stu_info()
             else                           // 如果没有找到学生
                 stu.id = -1;               // 将stu的id设为-1，表示无效
             show_result(id, stu);          // 显示查找结果和所用时间
+            fflush(stdin);
             getchar();
             system(op);
             break;
@@ -451,6 +504,7 @@ void search_stu_info()
             else                       // 如果没有找到学生
                 stu.id = -1;           // 将stu的id设为-1，表示无效
             show_result(id, stu);      // 显示查找结果和所用时间
+            fflush(stdin);
             getchar();
             system(op);
             break;
@@ -462,6 +516,7 @@ void search_stu_info()
             else                                     // 如果没有找到节点
                 stu.id = -1;                         // 将stu的id设为-1，表示无效
             show_result(id, stu);                    // 显示查找结果和所用时间
+            fflush(stdin);
             getchar();
             system(op);
             break;
@@ -720,7 +775,8 @@ void export_file()
 {
     show_menu_save();
     scanf("%d", &choice);
-    if (choice == 10) return;
+    if (choice == 10)
+        return;
     char *filename = (char *)malloc(sizeof(char) * MAX_FILENAME_LENGTH);
     system(op);
     printf("\n");
@@ -730,8 +786,7 @@ void export_file()
     {
     case 1:
         save_to_txt(filename);
-        getchar();
-        getchar();
+        printf("         文件保存完成！按任意键继续");
         system(op);
         free(filename);
         filename = NULL;
@@ -739,8 +794,7 @@ void export_file()
 
     case 2:
         save_to_csv(filename);
-        getchar();
-        getchar();
+        printf("         文件保存完成！按任意键继续");
         system(op);
         free(filename);
         filename = NULL;
@@ -807,4 +861,85 @@ void write_file(FILE *fp, char *option)
     fclose(fp);
 }
 
-// gcc main.c -o main -lmysqlclient
+#ifdef _WIN32
+// 定义一个函数，用于实现密码隐式输入
+int input_password(char password[])
+{
+    // 定义一个整数变量，用于记录密码长度
+    int i = 0;
+    // 定义一个字符变量，用于实现密码隐式输入
+    char c;
+    // 使用while循环，不断读取用户输入的字符
+    while (1)
+    {
+        // 使用_getch()函数输入，字符不会显示在屏幕上
+        c = _getch();
+        // 如果遇到回车，表明密码输入结束
+        if (c == '\r')
+        {
+            break; // 跳出while循环
+        }
+        else if (c == '\b')
+        {                    // 如果遇到退格，需要删除前一个星号
+            printf("\b \b"); // 退格，打一个空格，再退格，实质上是用空格覆盖掉星号
+            --i;             // 密码长度减一
+        }
+        else
+        {
+            password[i++] = c; // 将字符放入数组
+            printf("*");       // 在屏幕上打印一个星号
+        }
+    }
+    // 返回密码长度
+    return i;
+}
+#endif
+
+#ifdef __APPLE__
+// 定义一个函数，用于实现密码隐式输入
+int input_password(char password[])
+{
+    // 定义一个整数变量，用于记录密码长度
+    int i = 0;
+    // 定义一个字符变量，用于实现密码隐式输入
+    char c;
+    // 初始化 curses 库
+    initscr();
+    // 设置不回显输入的字符
+    noecho();
+    // 设置非阻塞模式
+    // nodelay(stdscr, TRUE); // 添加这一行
+    printw("         请输入数据库密码:");
+    // 使用while循环，不断读取用户输入的字符
+    while (1)
+    {
+        // 使用 getch() 函数输入，字符不会显示在屏幕上
+        c = getch();
+        // 如果遇到回车，表明密码输入结束
+        if (c == '\n')
+        {
+            password[i] = 0;
+            break; // 跳出while循环
+        }
+        else if (c == '\b' || c == 127)
+        {                    // 如果遇到退格或删除键，需要删除前一个星号
+            printw("\b \b"); // 退格，打一个空格，再退格，实质上是用空格覆盖掉星号
+            refresh();       // 刷新屏幕，添加这一行
+            --i;             // 密码长度减一
+        }
+        else
+        {
+            password[i++] = c; // 将字符放入数组
+            printw("*");       // 在屏幕上打印一个星号
+            refresh();         // 刷新屏幕，添加这一行
+        }
+    }
+    // 结束 curses 库
+    endwin();
+    // 返回密码长度
+    return i;
+}
+#endif
+
+// 编译命令(¿):
+// gcc main.c -o main -lmysqlclient -lncursesw

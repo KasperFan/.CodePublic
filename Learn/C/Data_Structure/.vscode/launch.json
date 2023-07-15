@@ -19,7 +19,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "C/C++: Launch with LLDB",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "program": "${fileDirname}/main",
             "args": [],
             "cwd": "${workspaceFolder}"
         }

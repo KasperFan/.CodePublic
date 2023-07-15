@@ -59,6 +59,9 @@
         "cmath": "c",
         "concepts": "c",
         "ratio": "c",
-        "stop_token": "c"
+        "stop_token": "c",
+        "stdio.h": "c",
+        "_stdio.h": "c"
     },
+    "C_Cpp.errorSquiggles": "disabled",
 }

@@ -1,8 +1,8 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2023-04-05 10:35:30
- * @LastEditTime: 2023-04-05 11:09:00
- * @FilePath: /Java/WFUStudy/Day4_5训练/P1320.java
+ * @LastEditTime: 2023-07-15 10:25:51
+ * @FilePath: /ACM/Java/WFUStudy/Day4_5训练/P1320.java
  * @describes: This file is created for learning Code.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved. 
  */
@@ -25,7 +25,7 @@ public class P1320 {
         ans.append(n + " ");
         int cnt = 0;
         for (int i = 0; i < buffer.length(); i++) {
-            if (buffer.charAt(i) != '0' + (int)flag) {
+            if (buffer.charAt(i) != '0' ) {
                 ans.append(cnt + " ");
                 cnt = 1;
             } else {

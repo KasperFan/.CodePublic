@@ -41,7 +41,7 @@ def login():
     # driver.find_element(By.LINK_TEXT, '登录').click()
     print("---------- 正在登陆 ----------")
 
-
+3
 def getcourses():
     time.sleep(random.random() * 3)
     driver.find_element(By.XPATH, '//*[@id="dataList"]/tbody/tr[1]/td/a').click()

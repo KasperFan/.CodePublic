@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P4017",
+            "request": "launch",
+            "mainClass": "P4017",
+            "projectName": "ACM_44570932"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "ACM_44570932"
+        },
+        {
+            "type": "java",
             "name": "P8685",
             "request": "launch",
             "mainClass": "P8685",

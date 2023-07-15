@@ -19,7 +19,7 @@ public class P1449 {
     static Read sc = new Read();
     
     public static void main(String[] args) throws Exception {
-        char[] data = 
+        // char[] data = 
         
     }
     /**
