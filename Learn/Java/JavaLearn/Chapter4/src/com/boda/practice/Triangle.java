@@ -1,6 +1,8 @@
 package com.boda.practice;
 
-public class Triangle {
+import com.boda.xy.Shape;
+
+public class Triangle extends Shape {
     private double a, b, c;
 
     public Triangle() {
@@ -13,8 +15,13 @@ public class Triangle {
         this.c = c;
     }
 
-    public double area() {
+    public double getArea() {
         double s = (a + b + c) / 2;
         return Math.sqrt(s * (s - a) * (s - b) * (s - c));
+    }
+
+    @Override
+    public double getPerimeter() {
+        return a + b + c;
     }
 }

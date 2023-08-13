@@ -1,6 +1,8 @@
 package com.boda.practice;
 
-public class Rectangle {
+import com.boda.xy.Shape;
+
+public class Rectangle extends Shape {
     private double length;
     private double width;
 
@@ -27,5 +29,15 @@ public class Rectangle {
 
     public void setWidth(double width) {
         this.width = width;
+    }
+
+    @Override
+    public double getArea() {
+        return length * width;
+    }
+
+    @Override
+    public double getPerimeter() {
+        return 2 * (length + width);
     }
 }
