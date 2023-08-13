@@ -11,9 +11,13 @@ Desc    :   This file is created for solve OJ problem
 
 int main()
 {
-    int m,t,s;
-    scanf("%d%d%d",&m,&t,&s);
-    if (t==0) { printf("0\n"); return 0;} 
-    printf("%d\n",(s%t==0?m-(s/t):m-(s/t+1))>=0?s%t==0?m-(s/t):m-(s/t+1):0);
+    int m, t, s;
+    scanf("%d %d %d", &m, &t, &s);
+    if (t == 0)
+    {
+        printf("0\n");
+        return 0;
+    }
+    printf("%d\n", (s % t == 0 ? m - (s / t) : m - (s / t + 1)) >= 0 ? s % t == 0 ? m - (s / t) : m - (s / t + 1) : 0);
     return 0;
 }

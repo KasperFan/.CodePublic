@@ -1,9 +1,9 @@
 /*
  * @Author: KasperFan && fanwlx@foxmail.com
  * @Date: 2023-08-10 14:16:57
- * @LastEditTime: 2023-08-10 14:30:02
+ * @LastEditTime: 2023-08-11 21:16:10
  * @FilePath: /C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5707.cpp
- * @describes: This file is created for learning Code.
+ * @describes: This file is created for solving OJ problems.
  * Copyright (c) 2023 by KasperFan in WFU, All Rights Reserved.
  */
 #include <bits/stdc++.h>

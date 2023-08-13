@@ -7,14 +7,7 @@ Contact :   fanwlx@foxmail.com
 Desc    :   This file is created for learning Java coding
 */
 
-import java.io.BufferedWriter;
-// import java.io.File;
-// import java.io.FileWriter;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.StreamTokenizer;
+import java.io.*;
 
 public class P5461赦免战俘 {
     public static void main(String[] args) throws Exception {
