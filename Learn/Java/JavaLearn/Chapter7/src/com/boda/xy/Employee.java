@@ -47,6 +47,10 @@ public class Employee extends Person {
         System.out.println(emp.computeSalary(10, 50.0));
     }
 
+    public double getSalary() {
+        return salary;
+    }
+
     /**
      * 计算并返回员工总工资
      */
@@ -55,12 +59,28 @@ public class Employee extends Person {
         return totalSalary;
     }
 
+    /**
+     * instanceof运算符用来测试一个实例是否是某种类型的实例，这里的类型可以是类、抽象类、接口等。instanceof运算符的格式如下：
+     * <blockquote><pre>{@code variable instanceof TypeName}</pre></blockquote>
+     * 该表达式返回逻辑值。如果variable是TypeName类型或其父类型的实例，返回true，否则返回false
+     */
     @Override
     public boolean equals(Object o) {
+//        if (this == o) return true;
+//        if (o == null || getClass() != o.getClass()) return false;
+//        Employee employee = (Employee) o;
+//        return id == employee.id && Double.compare(employee.salary, salary) == 0 && name.equals(employee.name);
         if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (o == null) return false;
+        if (!(o instanceof Employee)) return false;
+
         Employee employee = (Employee) o;
-        return id == employee.id && Double.compare(employee.salary, salary) == 0 && name.equals(employee.name);
+        return getId() == employee.getId() && Objects.equals(getName(), employee.getName()) && getSalary() == employee.salary;
+    }
+
+
+    public int getId() {
+        return id;
     }
 
     @Override
