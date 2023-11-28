@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80c2130-8bc2-4aef-bfef-8099eb1b98ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ACM/C/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/C++/LeetCode/15.三数之和.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/C++/LeetCode/15.三数之和.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/C++/LeetCode/2.两数相加.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/C++/LeetCode/2.两数相加.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/C++/LeetCode/3.无重复字符的最长子串.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/C++/LeetCode/3.无重复字符的最长子串.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/C++/LeetCode/39.组合总和.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/C++/LeetCode/39.组合总和.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.c" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Resources/DWARF/P5705" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Resources/DWARF/P5705" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Resources/Relocations/aarch64/P5705.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5705.dSYM/Contents/Resources/Relocations/aarch64/P5705.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5707.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/P5707.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/tempCodeRunnerFile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门1】顺序结构（完结）/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1085不高兴的津津.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1085不高兴的津津.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Resources/DWARF/P1909买铅笔" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Resources/DWARF/P1909买铅笔" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Resources/Relocations/aarch64/P1909买铅笔.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P1909买铅笔.dSYM/Contents/Resources/Relocations/aarch64/P1909买铅笔.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P5713.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门2】分支结构（完结）/P5713.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门4】数组/P2615神奇的幻方.c" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/OJ/LuoGu_OJ/【入门4】数组/P2615神奇的幻方.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/C/example1.c" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/C/example1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/GO/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/GO/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/GO/text.go" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/GO/text.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Java/P4017.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Java/P4017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Java/蓝桥杯省赛/阶乘之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Java/蓝桥杯省赛/阶乘之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Leetcode/1/1.c" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Leetcode/1/1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Leetcode/1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Leetcode/1/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Python/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Python/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Python/OJ/LeetCode/39.组合总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Python/OJ/LeetCode/39.组合总和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/B3725:M_Function_G.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/B3725:M_Function_G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/B3820:小粉兔的元素反应.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/B3820:小粉兔的元素反应.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/P2083:找人.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM/Python/WFUStudy/Day9.5虚衷/P2083:找人.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/query/client-vscode/query.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/query/client-vscode/query.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/cache-v2-b27b9be4f46bb9b51e8f.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/cache-v2-b27b9be4f46bb9b51e8f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/cmakeFiles-v1-f00b68f1ec0206c06125.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/cmakeFiles-v1-f00b68f1ec0206c06125.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/codemodel-v2-f8c7cc410c2d7285ae67.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/codemodel-v2-f8c7cc410c2d7285ae67.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/index-2023-06-19T03-25-50-0835.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/index-2023-06-19T03-25-50-0835.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/target-main-Debug-4fc69ea195c813f462fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/target-main-Debug-4fc69ea195c813f462fb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/toolchains-v1-cda44637f4b0614f5612.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/.cmake/api/v1/reply/toolchains-v1-cda44637f4b0614f5612.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/compiler_depend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/compiler_depend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/main.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/main.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/Build/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/Create/Build/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Create/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Create/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/tempCodeRunnerFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/tempCodeRunnerFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验一_算法与复杂度.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验一_算法与复杂度.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验七_二叉树的遍历.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验七_二叉树的遍历.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.dSYM/Contents/Resources/DWARF/test" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验三_顺序表的应用/test.dSYM/Contents/Resources/DWARF/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验九_二叉树的应用（堆）.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验九_二叉树的应用（堆）.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验二_数据结构实现基础/汉诺塔（Tower_of_Hanoi）问题.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验二_数据结构实现基础/汉诺塔（Tower_of_Hanoi）问题.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验二_数据结构实现基础/用递归方法求集合的中位数.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验二_数据结构实现基础/用递归方法求集合的中位数.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验八_二叉树的应用（搜索二叉树）.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验八_二叉树的应用（搜索二叉树）.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验六_队列的应用/一元多项式的表示及相加.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验六_队列的应用/一元多项式的表示及相加.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十_图的遍历.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十_图的遍历.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十一_图的最小生成树.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十一_图的最小生成树.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十二_排序/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验十二_排序/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验四_队列的应用/link_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验四_队列的应用/link_list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验四_队列的应用/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/Test/实验四_队列的应用/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/DataBase.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/DataBase.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Resources/DWARF/main" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Resources/DWARF/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Resources/Relocations/aarch64/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/main.dSYM/Contents/Resources/Relocations/aarch64/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Resources/DWARF/数据结构" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Resources/DWARF/数据结构" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Resources/Relocations/aarch64/数据结构.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/help/数据结构.dSYM/Contents/Resources/Relocations/aarch64/数据结构.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/include/LNode_p.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/include/LNode_p.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/include/stack_p.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/include/stack_p.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/main.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/main.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.2.s" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.2.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.2c.s" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.2c.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.id0" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.id0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.id1" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.id1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.nam" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.nam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.til" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/1.til" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/tempCodeRunnerFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/tempCodeRunnerFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/测试函数.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.1_引子/测试函数.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.3_算法/1.3.3_渐进表示法/求和.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.3_算法/1.3.3_渐进表示法/求和.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.3_算法/选择排序算法的伪码描述.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第1章_概论/1.3_算法/选择排序算法的伪码描述.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第3章_线性结构/3.2线性表的定义与实现/LNode_p.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第3章_线性结构/3.2线性表的定义与实现/LNode_p.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第3章_线性结构/3.3堆栈/stack_p.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第3章_线性结构/3.3堆栈/stack_p.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/第4章_树/堆/heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/第4章_树/堆/heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/职工资料.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/职工资料.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/Student.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/Student.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/Student.dSYM/Contents/Resources/DWARF/Student" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/Student.dSYM/Contents/Resources/DWARF/Student" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/func.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/func.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/main.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/main.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/main.dSYM/Contents/Resources/DWARF/main" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/main.dSYM/Contents/Resources/DWARF/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/tempCodeRunnerFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/tempCodeRunnerFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Resources/DWARF/学生成绩查询系统" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Resources/DWARF/学生成绩查询系统" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Resources/Relocations/aarch64/学生成绩查询系统.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Data_Structure/课程设计/学生成绩查询系统.dSYM/Contents/Resources/Relocations/aarch64/学生成绩查询系统.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Try.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Try.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/Try.dSYM/Contents/Resources/DWARF/Try" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/Try.dSYM/Contents/Resources/DWARF/Try" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/output.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/output.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/花店/1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/花店/1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/花店/1.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/花店/1.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/C/花店/1.dSYM/Contents/Resources/DWARF/1" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/C/花店/1.dSYM/Contents/Resources/DWARF/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/GO/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/GO/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/artifacts/Learn_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/artifacts/Learn_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter10/src/com/boda/xy/NegativeValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter10/src/com/boda/xy/NegativeValueException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter10/src/com/boda/xy/TryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter10/src/com/boda/xy/TryWithResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/CharBoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/CharBoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/ComputeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/CurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/CurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter2/src/com/boda/xy/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/StringSwitchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/StringSwitchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/SwitchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/SwitchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/SwitchExprDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter3/src/com/boda/xy/SwitchExprDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/com.boda.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/com.boda.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/BMICalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/practice/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/utils/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/utils/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/ClassEmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/ClassEmployeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/DateDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/DateDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/FractionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/FractionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/InitDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/InitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/OverloadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/OverloadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Sun.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/Sun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/classEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter4/src/com/boda/xy/classEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/ArrayCopyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/ArrayCopyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/VarargsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter5/src/com/boda/xy/VarargsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/practice/StringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/practice/StringPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/HelloProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/HelloProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/HelloProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/HelloProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/StringLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter6/src/com/boda/xy/StringLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/SystemInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/SystemInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/practice/VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/utils/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/utils/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/utils/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/utils/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/EmployeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/ImportStaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/ImportStaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/PackageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/PackageDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter7/src/com/boda/xy/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/DateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/DateTimeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/DateTimeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/InputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/InputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/IntStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/IntStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/IntStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/LargeFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/LargeFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/MathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/MathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Monkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/PeriodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/PeriodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/PrintCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/PrintCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/RandomCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter8/src/com/boda/xy/RandomCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/AB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/AB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/DD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/DD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Eatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Mutton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Mutton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Outer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/Chapter9/src/com/boda/xy/Outer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/JavaLearn/src/Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/JavaLearn/src/Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/Learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/artifacts/Learn_jar/MathUtils.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/artifacts/Learn_jar/MathUtils.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/BufferedReaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/BufferedReaderDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Code.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Main$Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Main$Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/BMICalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/BMICalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Cylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/MathUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/MathUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/QuadraticEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/StringPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/StringPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/SystemInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/SystemInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/VideoPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/practice/VideoPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/MathUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/utils/MathUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AnimalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/AnimalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ArrayCopyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ArrayCopyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ArrayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CaesarCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CaesarCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CharBoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CharBoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ClassEmployeeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ClassEmployeeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ComputeArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ComputeArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CurrentTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/CurrentTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DD.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateTimeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/DateTimeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Discount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Eatable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Eatable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/EmployeeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/EmployeeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/EqualsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/EqualsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/FibonacciNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/FibonacciNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/FractionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/FractionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/HelloProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/HelloProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ImportStaticDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/ImportStaticDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InitDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InputDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InputDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/IntStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/IntStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/IntStackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/IntStackDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InterfaceMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/InterfaceMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/LargeFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/LargeFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/MathDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/MathDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Monkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Monkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Mutton.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Mutton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/NegativeValueException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/NegativeValueException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer2$Inner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer2$Inner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Outer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/OverloadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/OverloadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PackageDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PackageDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PeriodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PeriodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PrintCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/PrintCalendar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/RandomCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/RandomCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SomeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StaticDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StaticDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringLearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringLearn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringSwitchDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringSwitchDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringSwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/StringSwitchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Sun.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/Sun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchDemo$Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchDemo$Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchExprDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/SwitchExprDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/TryWithResources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/VarargsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/VarargsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/classEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/com/boda/xy/classEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/MapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_02$Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_02$Read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/Test/Test_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/UpperCase$SHA256.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/UpperCase$SHA256.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/UpperCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/UpperCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/CharBoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/CharBoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/ComputeArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/ComputeArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/CurrentTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/CurrentTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter2/DataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/StringSwitchDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/StringSwitchDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/StringSwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/StringSwitchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchDemo$Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchDemo$Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchExprDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter3/SwitchExprDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter4/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter4/EmployeeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Chapter4/EmployeeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/sand.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/out/production/Learn/src/learn/sand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/BufferedReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/BufferedReaderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/Test/Test_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/Test/Test_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/Test/Test_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/Test/Test_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Java/src/UpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Java/src/UpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/Base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/Base64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/MD5算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/MD5算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/RSA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/RSA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/RSApq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/RSApq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/SHA-256算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/SHA-256算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/course_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/course_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/data/test_1.in" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/data/test_1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/data/test_2.in" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/data/test_2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/data/test_3.in" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/data/test_3.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/data/test_4.in" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/data/test_4.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/leetcode/1.两数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/leetcode/1.两数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/randomData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/randomData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/tempCodeRunnerFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/tempCodeRunnerFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/刷课/Ulearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/刷课/Ulearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/刷课/courceflush.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/刷课/courceflush.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/刷课/toolmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/刷课/toolmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/小子包/字符串格式化的方式2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/小子包/字符串格式化的方式2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Python/抢课.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Python/抢课.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/wenyan/main.wy" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/wenyan/main.wy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.work" beforeDir="false" afterPath="$PROJECT_DIR$/go.work" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/main.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dSYM/Contents/Resources/DWARF/main" beforeDir="false" afterPath="$PROJECT_DIR$/main.dSYM/Contents/Resources/DWARF/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/帮忙文档/wjh.c" beforeDir="false" afterPath="$PROJECT_DIR$/帮忙文档/wjh.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/帮忙文档/wjh.dSYM/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/帮忙文档/wjh.dSYM/Contents/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/帮忙文档/wjh.dSYM/Contents/Resources/DWARF/wjh" beforeDir="false" afterPath="$PROJECT_DIR$/帮忙文档/wjh.dSYM/Contents/Resources/DWARF/wjh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/帮忙文档/职工资料.c" beforeDir="false" afterPath="$PROJECT_DIR$/帮忙文档/职工资料.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VNAm0CBXk2Lw5VsnAOmZo9WKuJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80c2130-8bc2-4aef-bfef-8099eb1b98ac" name="Changes" comment="" />
+      <created>1694666319597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694666319597</updated>
+      <workItem from="1694666322464" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
